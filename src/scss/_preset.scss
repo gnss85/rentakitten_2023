@@ -1,0 +1,17 @@
+$color-prime: #ff6e48;
+$ciBlue: #00fff1;
+$ciRed: #ff00aa;
+$ciBlue: #46fcb4;
+$color-second: #0c1016;
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background: $color-second;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
